@@ -1,4 +1,4 @@
 package org.template.util
-import org.common .*
-import org.java .*
+import org.common.*
+import org.java.*
 
