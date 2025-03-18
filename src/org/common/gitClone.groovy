@@ -1,5 +1,6 @@
+package org.common
 
-package org
+import org.common.*
 
 class GitClone {
     def steps
